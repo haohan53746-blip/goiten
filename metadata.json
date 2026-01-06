@@ -1,0 +1,7 @@
+{
+  "name": "Lớp Học Phù Thủy - Người Được Chọn",
+  "description": "Ứng dụng gọi tên học sinh ngẫu nhiên tích hợp AI, giúp tạo không khí vui nhộn, công bằng và khích lệ học sinh trong giờ học.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
